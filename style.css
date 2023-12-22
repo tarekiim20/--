@@ -1,0 +1,48 @@
+* {
+    background-color: #C3E2C2;
+}
+
+
+h1 {
+    color: #CD8D7A;
+    text-transform: uppercase;
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+    margin: 0%;
+    margin-bottom: 15px;
+    font-size: 30px;
+}
+
+
+#big {
+    width: 50%;
+    margin-left: 25%;
+}
+
+
+img {
+    margin-bottom: 40px;
+    width: 50%;
+    margin-left: 25%;
+    border: 20px solid #CD8D7A ;
+    margin-top: 80px;
+}
+
+
+p {
+    color: #CD8D7A;
+    margin: 0px;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Libre Baskerville', serif;
+    margin-top: 20px;
+}
+
+
+html {
+    margin: 0px;
+}
+
+#small {
+    margin-left: 5%;
+}
